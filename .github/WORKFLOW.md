@@ -1,5 +1,5 @@
 # workflow
-this is extended from [CONTRIBUTING.md](https://github.com/nonsensetwice/gauntlet/blob/main/.github/CONTRIBUTING.md).
+this is extended from [CONTRIBUTING.md](https://github.com/ephemeralrogue/gauntlet/blob/main/.github/CONTRIBUTING.md).
 Please read that document before perusing this one, as it provides a general
 overview of the workflow and additional guidelines.
 

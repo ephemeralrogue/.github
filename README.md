@@ -1,4 +1,4 @@
-# community contribution docs for nonsensetwice
+# community contribution docs for ephemeralrogue open source projects
 
 this repository houses all of the default documentation for all personal open
 source projects. this includes:
