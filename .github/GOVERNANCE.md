@@ -1,13 +1,13 @@
-# governance of nonsensetwice/nonsensecodes projects
+# governance of FM/effem/ephemeralrogue projects
 
 ## preamble
 
-the purpose of open source projects in the nonsensetwice/nonsensecodes workspaces
-are to either fill a void in the development ecosystem or pursue an idea or
-concept for the sake of learning and building collaboratively. however, regardless
-of the purpose of a project, the overall goal of open source is to work
-together to bring a project to fruition. to this end, the following guidelines 
-will govern the project.
+the purpose of open source projects in the FM/effem/ephemeralrogue (hereafter
+"effem") workspaces are to either fill a void in the development ecosystem or
+pursue an idea or concept for the sake of learning and building
+collaboratively. however, regardless of the purpose of a project, the overall
+goal of open source is to work together to bring a project to fruition. to this
+end, the following guidelines will govern the project.
 
 ## hierarchy
 
