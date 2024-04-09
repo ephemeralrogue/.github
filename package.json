@@ -1,4 +1,6 @@
 {
+  "name": "effem.site",
+  "author": "ephemeralrogue",
   "private": true,
   "scripts": {
     "dev": "next",
