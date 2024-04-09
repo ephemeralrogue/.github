@@ -9,6 +9,6 @@ export default function StudioPage() {
 }
 
 export function generateStaticParams() {
-  const pages = ['Presentation', 'Vision', 'Structure'];
+  const pages = ['studio'];
   return pages.map((page) => ({ name: page }));
 }
